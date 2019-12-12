@@ -1,0 +1,23 @@
+body{
+	background-color: #ccc;
+}
+#box-page{
+	width: 1000px;
+	margin: 0px auto;
+	background-color: cyan;
+}
+#banner-top{
+	background-color: red;
+}
+#main-menu{
+	background-color: green;
+}
+#main-menu ul{
+	.....
+}
+#body-page{
+	background-color: yellow;
+}
+#footer-page{
+	background-color: black;
+}
